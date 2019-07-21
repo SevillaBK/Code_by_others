@@ -1,1 +1,1 @@
-# KaggleStudy
+# Kaggle_Kernel_Translation
