@@ -1,1 +1,1 @@
-# Kaggle_Kernel_Translation
+# Kaggle 학습
